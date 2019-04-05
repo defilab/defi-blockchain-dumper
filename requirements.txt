@@ -1,0 +1,4 @@
+git+ssh://git@github.com/points-org/fabric-sdk-py.git#egg=hfc
+git+ssh://git@github.com/points-org/pts-python-sdk.git#egg=pts-python-sdk
+flask==1.0.2
+elasticsearch>=6.0.0,<7.0.0
